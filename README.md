@@ -25,7 +25,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/victor-muhita-ba4aa7263/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a>
 <a href="muhitavictor69@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a>
-<a href="https://github.com/trickylicky"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=23></a>
+<a href="https://github.com/tricyvic"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=23></a>
 <!-- <a href="link"><img src="https://img.shields.io/badge/twitter-%230077B5.svg?style=for-the-badge&logo=twitter&logoColor=white" height=23></a> -->
 </p>
 <hr>
@@ -51,7 +51,7 @@
 <br>
 
 <p align="center">
-<a href="https://github.com/trickylicky">
+<a href="https://github.com/tricyvic">
 <img title= "Victor's GitHub stats" width=350 src="https://github-readme-stats.vercel.app/api?username=trickylicky&show_icons=true&theme=radical" />
  </a>
 </p>
