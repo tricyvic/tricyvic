@@ -12,7 +12,7 @@
   <br> -->
   💻 I love Writing code, developing web applications with amazing user interface and anything in between. 😊
   <br>
-  📚 I’m currently focusing on Frontend web development.
+  📚 I’m currently focusing on Backend web development.
   <br>
   👯 I’m looking to learning Node.js.
   <br>
@@ -34,6 +34,8 @@
 <code><img title="CSS3" height="25" src="https://img.icons8.com/color/512/css3.png"></code>
 <code><img title="Bootstrap" height="25" src="https://img.icons8.com/color/512/bootstrap.png"></code>
 <code><img title="Javascript" height="25" src="https://img.icons8.com/color/512/javascript.png"></code>
+<code><img title="Python" height="35" src="https://img.icons8.com/color/48/python--v1.png"></code>
+<code><img title="Django" height="40" src="https://img.icons8.com/color/48/django.png"></code>
 <code><img title="Ruby" height="25" src="https://img.icons8.com/color/512/ruby-programming-language.png"></code>
 <code><img title="Ruby on Rails" height="25" src="https://img.icons8.com/windows/512/ruby-on-rails.png"></code>
 <code><img title="MySQL" height="25" src="https://img.icons8.com/fluency/512/mysql-logo.png"></code>
@@ -51,9 +53,9 @@
 <br>
 
 <p align="center">
-<a href="https://github.com/tricyvic">
+<!-- <a href="https://github.com/tricyvic">
 <img title= "Victor's GitHub stats" width=350 src="https://github-readme-stats.vercel.app/api?username=trickylicky&show_icons=true&theme=radical" />
- </a>
+ </a> -->
 </p>
 <br>
 <hr>
